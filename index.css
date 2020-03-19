@@ -1,0 +1,17 @@
+body{
+    background: #c1c1c1;
+}
+#dataHere{
+    width: 600px;
+    height: 160px;
+    background: #fff;
+    font-size: 24px;
+    padding-left: 10px;
+    color: #ccc;
+    padding-top: 10px;
+}
+#input1{
+    height: 60px;
+};
+/*end css for vanila project index.js*/
+
